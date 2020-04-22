@@ -52,7 +52,7 @@ Analyzing Bikeshare data of 3 US cities using R
   •	washington.csv
 
 ### Author
-Akshat Sharma
+[Akshat Sharma](https://www.linkedin.com/in/akshatsharma-iimn/)
 
 ### Credits
 The course content of Udacity's Nanodegree program on 'Programming for Data science with R' (link given below) and their instructors and mentors were of immense help in completing this project.
