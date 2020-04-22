@@ -13,12 +13,13 @@ Analyzing Bikeshare data of 3 US cities using R
       3. The counts of no. of trips for each gender in New York city
 
 **Project Details:**
-  *Bike Share Data*
+
+  ***Bike Share Data:***
     Over the past decade, bicycle-sharing systems have been growing in number and popularity in cities across the world. Bicycle-sharing systems allow users to rent bicycles on a very short-term basis for a price. This allows people to borrow a bike from point A and return it at point B, though they can also return it to the same location if they'd like to just go for a ride. Regardless, each bike can serve several users per day.
     Thanks to the rise in information technologies, it is easy for a user of the system to access a dock within the system to unlock or return bicycles. These technologies also provide a wealth of data that can be used to explore how these bike-sharing systems are used.
     In this project, the data provided by Motivate, a bike share system provider for many major cities in the United States, was used to uncover bike share usage patterns. The system usage between 3 large cities: Chicago, New York City, and Washington was compared:
 
-  *The Datasets*
+  ***The Datasets:***
     Randomly selected data for the first six months of 2017 are provided for all three cities.
 
     All three of the data files contain the same core six (6) columns:
@@ -39,7 +40,7 @@ Analyzing Bikeshare data of 3 US cities using R
     1. The median travel time for different type of users in Washington city
     2. The most common Start Station in Chicago city
     3. The counts of no. of trips for each gender in New York city
-    
+
   This analysis was also represented through plots such as Histogram and Box Plot.
 
   ***Result:***
